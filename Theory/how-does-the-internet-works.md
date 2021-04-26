@@ -15,3 +15,5 @@
 - information travels through the internet in packets;
 - packets are reasembled at the destination;
 - routers are the traffic conductors of the internet.
+
+This file has been reviewed by Neha.
